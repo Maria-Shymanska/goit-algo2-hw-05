@@ -1,0 +1,10 @@
+{
+    "exact": {
+        "unique_elements": 28,
+        "time_seconds": 0.003
+    },
+    "hyperloglog": {
+        "unique_elements": 4096,
+        "time_seconds": 0.0498
+    }
+}

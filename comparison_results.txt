@@ -1,0 +1,5 @@
+Comparison Results:
+| Metric               |   Exact Count |   HyperLogLog |
+|----------------------|---------------|---------------|
+| Unique Elements      |        28     |     4096      |
+| Execution Time (sec) |         0.003 |        0.0498 |
