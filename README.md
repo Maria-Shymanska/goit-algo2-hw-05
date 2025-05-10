@@ -19,8 +19,7 @@ To run unit tests:
 
 python bloom_filter.py test
 
-## IP Address Count Comparison
-
+## 2. IP Address Count Comparison
 This project compares the performance of two methods for counting unique IP addresses in a log file: Exact Count using Python's Counter and Approximate Count using the HyperLogLog algorithm from the datasketch library. The goal is to evaluate the accuracy and efficiency of these methods.
 
 Table of Contents
